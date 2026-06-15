@@ -1,0 +1,18 @@
+# Virtual environments
+venv/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# SQLite database
+weather.db/
+.pre-commit-config.yaml/ 
+
+
+# Raw JSON files
+raw_json/
