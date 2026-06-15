@@ -7,7 +7,7 @@ import sys
 print(sys.executable)
 
 
-API_KEY = "d9d443bb523d80aa0986c8e317a2bd33"
+API_KEY = "d9d443bb523d80aa0986c8e317a2bd"
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 CITIES = ["DELHI","MUMBAI","PUNE"]
 RAW = "/home/akhil_vm/project_data_engineering/raw_json"
